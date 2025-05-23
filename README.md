@@ -1,1 +1,1 @@
-# HR-Analytics
+# machine learning projects
